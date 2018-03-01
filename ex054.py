@@ -10,5 +10,4 @@ for c in range(1, 8):
         ofage += 1
     else:
         underage += 1
-print('At the total, we got {} person of age.'.format(ofage))
-print('And also got {} person underage.'.format(underage))
+print('At the total, we got {} person of age. \nAnd also got {} person underage.'.format(ofage, underage))
